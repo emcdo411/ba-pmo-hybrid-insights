@@ -1,7 +1,3 @@
-I'll add the suggested enhancements to the case study now. Here's how it will look:
-
----
-
 ## 📍 Introduction
 
 In legacy business structures, Business Analysts often report to IT managers, a practice born out of traditional waterfall project management systems. However, in modern, agile environments where business decisions require tight alignment between data, technology, and business objectives, this setup creates bottlenecks.
